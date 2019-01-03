@@ -1,0 +1,1 @@
+ myvenv\Scripts\activate && git add --all && git commit -m "one more commit" && git push & cmd /k
